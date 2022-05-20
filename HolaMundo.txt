@@ -1,1 +1,1 @@
-Este es mi primer Hola Mundo en Git
+Este es mi primer Hola Mundo en Git en un clon
